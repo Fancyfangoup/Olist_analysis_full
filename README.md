@@ -1,5 +1,5 @@
 # Olist_analysis_full
-Kaggle Olist 电商数据分析实战 | Python | JupyterLab | 网易求职项目
+Kaggle Olist 电商数据分析实战 | Python | JupyterLab | 求职项目
 ## 项目背景
 基于 Kaggle 公开的巴西电商 Olist 数据集，完成从数据清洗、探索性分析到业务洞察的全流程数据分析，旨在提升电商业务运营效率与用户体验。
 
