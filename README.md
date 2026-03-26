@@ -11,6 +11,8 @@ Kaggle Olist 电商数据分析实战 | Python | JupyterLab | 网易求职项目
 ## 项目结构
 - `Olist_analysis_full.ipynb`: 完整分析代码（含数据清洗、可视化、业务结论）
 - `巴西电商Olist分析书.pdf`: 项目分析报告（业务解读与结论）
+注：若仓库内PDF无法打开，可移步百度网盘查看完整报告：
+链接：https://pan.baidu.com/s/1slTRS7SUFsmODzck1c08Zw?pwd=3125
 
 ## 项目亮点
 1.  完整复现电商数据分析全流程，覆盖用户、订单、支付、物流等核心维度
